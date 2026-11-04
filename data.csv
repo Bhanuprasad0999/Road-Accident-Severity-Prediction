@@ -1,0 +1,601 @@
+Weather_Condition,Road_Surface_Condition,Light_Condition,Road_Type,Junction_Type,Area_Type,Traffic_Level,Vehicle_Type,Speed_Limit,Number_of_Vehicles,Number_of_Casualties,Driver_Age,Driver_Experience_Years,Visibility_km,Time_of_Day,Day_of_Week,Accident_Severity
+Clear,Wet,Daylight,Urban Road,None,Urban,Low,Car,100,5,4,52,12,11.8,Afternoon,Friday,Serious
+Rain,Dry,Dark - lights on,Highway,None,Urban,Low,Bus,50,4,1,69,30,5.0,Morning,Friday,Minor
+Rain,Wet,Daylight,Highway,T-Junction,Rural,Medium,Van,60,5,1,59,33,11.8,Morning,Monday,Minor
+Clear,Dry,Dawn/Dusk,Urban Road,T-Junction,Urban,Medium,Car,100,3,5,20,28,9.0,Morning,Thursday,Fatal
+Clear,Dry,Daylight,Rural Road,Roundabout,Urban,Medium,Car,50,4,2,37,36,11.2,Night,Monday,Minor
+Rain,Wet,Daylight,Urban Road,None,Urban,High,Car,100,1,1,66,35,7.9,Evening,Saturday,Serious
+Clear,Dry,Daylight,Rural Road,T-Junction,Urban,Medium,Car,70,1,3,55,43,6.3,Night,Wednesday,Minor
+Windy,Dry,Dark - lights on,Urban Road,None,Urban,High,Motorcycle,40,5,2,68,12,9.5,Afternoon,Friday,Serious
+Clear,Flooded,Daylight,Urban Road,None,Urban,High,Car,40,4,2,43,12,3.0,Night,Saturday,Minor
+Rain,Dry,Daylight,Rural Road,Crossroads,Urban,Low,Truck,80,1,5,47,6,6.3,Evening,Tuesday,Serious
+Windy,Dry,Daylight,Urban Road,None,Rural,Low,Motorcycle,40,2,3,60,7,0.6,Afternoon,Friday,Minor
+Windy,Dry,Daylight,Urban Road,T-Junction,Urban,Medium,Car,50,1,5,47,21,10.5,Afternoon,Monday,Minor
+Clear,Wet,Dark - lights on,Highway,Roundabout,Urban,High,Truck,50,2,5,22,34,6.3,Evening,Friday,Fatal
+Clear,Dry,Daylight,Rural Road,T-Junction,Urban,Medium,Car,120,3,5,68,17,5.2,Afternoon,Monday,Serious
+Clear,Dry,Daylight,Urban Road,T-Junction,Rural,Medium,Bus,40,4,2,32,16,1.6,Evening,Monday,Minor
+Clear,Dry,Daylight,Urban Road,T-Junction,Urban,Medium,Car,30,2,2,34,24,13.6,Morning,Friday,Minor
+Rain,Wet,Dark - lights off,Residential,Crossroads,Urban,High,Truck,40,5,3,44,26,12.1,Morning,Thursday,Serious
+Rain,Dry,Daylight,Residential,None,Urban,Low,Motorcycle,120,2,2,27,16,12.7,Night,Monday,Serious
+Clear,Dry,Dark - lights on,Highway,Crossroads,Urban,High,Bus,70,5,3,69,16,5.9,Night,Tuesday,Serious
+Rain,Dry,Daylight,Highway,Crossroads,Urban,High,Bus,100,1,5,44,19,9.2,Evening,Wednesday,Fatal
+Rain,Dry,Daylight,Urban Road,None,Urban,Low,Car,60,2,6,69,40,13.2,Evening,Thursday,Serious
+Clear,Dry,Daylight,Urban Road,Crossroads,Rural,Medium,Van,100,4,5,21,19,6.4,Afternoon,Monday,Fatal
+Windy,Dry,Dark - lights off,Urban Road,None,Urban,Low,Car,40,1,4,70,17,13.6,Afternoon,Sunday,Minor
+Rain,Flooded,Dark - lights on,Highway,None,Urban,Low,Car,30,1,0,27,10,2.3,Evening,Friday,Serious
+Clear,Dry,Daylight,Rural Road,Crossroads,Urban,Medium,Car,60,3,6,54,36,14.0,Morning,Wednesday,Serious
+Clear,Dry,Daylight,Urban Road,None,Urban,Medium,Motorcycle,80,5,4,59,30,11.8,Afternoon,Monday,Serious
+Clear,Dry,Dark - lights on,Urban Road,Roundabout,Urban,Medium,Car,40,3,5,31,45,11.3,Evening,Tuesday,Serious
+Clear,Wet,Dark - lights on,Rural Road,T-Junction,Urban,Medium,Car,40,4,3,22,35,1.9,Afternoon,Tuesday,Serious
+Clear,Dry,Dawn/Dusk,Residential,T-Junction,Urban,Medium,Car,120,2,0,28,6,11.6,Evening,Monday,Minor
+Fog,Wet,Daylight,Highway,None,Urban,High,Motorcycle,80,3,3,25,12,10.5,Morning,Monday,Fatal
+Clear,Wet,Daylight,Urban Road,Roundabout,Urban,Low,Car,100,3,4,65,4,2.3,Evening,Sunday,Serious
+Clear,Wet,Daylight,Urban Road,None,Urban,Medium,Motorcycle,50,1,1,47,20,4.7,Morning,Friday,Minor
+Clear,Dry,Daylight,Rural Road,Roundabout,Urban,High,Car,60,5,2,40,9,13.8,Evening,Sunday,Minor
+Rain,Dry,Dark - lights on,Urban Road,Roundabout,Urban,Medium,Car,40,1,5,36,33,2.8,Morning,Tuesday,Serious
+Windy,Dry,Daylight,Urban Road,Crossroads,Rural,Medium,Motorcycle,120,1,2,49,26,4.9,Evening,Wednesday,Minor
+Windy,Wet,Daylight,Rural Road,Roundabout,Urban,Medium,Bus,40,3,1,19,28,3.0,Afternoon,Friday,Minor
+Clear,Wet,Daylight,Urban Road,None,Rural,Medium,Car,100,2,0,56,33,12.5,Afternoon,Thursday,Minor
+Clear,Dry,Dawn/Dusk,Highway,T-Junction,Rural,Medium,Car,80,2,2,44,23,2.1,Morning,Monday,Serious
+Windy,Wet,Dark - lights on,Highway,T-Junction,Urban,Medium,Car,70,5,1,60,38,5.2,Evening,Friday,Minor
+Clear,Dry,Dark - lights on,Residential,None,Rural,Medium,Car,60,1,3,66,29,4.0,Afternoon,Thursday,Minor
+Windy,Dry,Dark - lights on,Urban Road,None,Rural,Low,Car,100,5,1,32,1,4.4,Night,Tuesday,Minor
+Clear,Dry,Daylight,Urban Road,Roundabout,Urban,Medium,Car,60,2,1,18,31,12.8,Morning,Wednesday,Minor
+Windy,Dry,Daylight,Highway,Roundabout,Rural,High,Truck,70,3,4,35,0,2.5,Afternoon,Wednesday,Serious
+Clear,Dry,Daylight,Rural Road,None,Urban,Low,Car,80,5,0,35,29,1.3,Morning,Tuesday,Serious
+Clear,Dry,Daylight,Rural Road,None,Urban,Low,Motorcycle,120,3,4,20,5,4.9,Evening,Saturday,Serious
+Windy,Dry,Dawn/Dusk,Urban Road,Crossroads,Urban,Low,Motorcycle,40,2,0,33,21,14.9,Night,Friday,Minor
+Windy,Dry,Dark - lights on,Rural Road,None,Rural,Medium,Car,30,1,1,35,12,1.6,Night,Wednesday,Minor
+Windy,Dry,Dark - lights on,Rural Road,None,Urban,High,Bus,80,4,4,47,39,2.5,Evening,Saturday,Fatal
+Clear,Dry,Daylight,Urban Road,Crossroads,Urban,Low,Car,30,3,2,40,26,6.9,Night,Wednesday,Minor
+Clear,Icy,Daylight,Urban Road,None,Urban,Medium,Car,100,4,2,45,19,9.6,Afternoon,Sunday,Serious
+Windy,Dry,Daylight,Rural Road,None,Urban,Medium,Van,100,1,6,30,4,13.1,Evening,Wednesday,Serious
+Windy,Dry,Dawn/Dusk,Urban Road,None,Rural,Medium,Car,30,5,1,63,28,13.2,Night,Sunday,Minor
+Rain,Dry,Dawn/Dusk,Highway,T-Junction,Rural,Medium,Van,80,1,5,63,25,0.7,Afternoon,Friday,Fatal
+Clear,Wet,Dark - lights on,Highway,T-Junction,Urban,Low,Bus,100,3,6,65,37,1.6,Morning,Sunday,Fatal
+Rain,Dry,Dark - lights on,Highway,T-Junction,Urban,High,Van,30,3,6,38,32,1.2,Afternoon,Tuesday,Fatal
+Clear,Dry,Daylight,Highway,Crossroads,Rural,High,Motorcycle,60,3,6,66,38,4.3,Afternoon,Monday,Fatal
+Clear,Dry,Dark - lights on,Urban Road,None,Urban,Low,Motorcycle,30,5,6,39,30,0.6,Morning,Wednesday,Serious
+Fog,Dry,Daylight,Urban Road,None,Urban,Medium,Motorcycle,40,3,4,51,30,9.1,Evening,Wednesday,Serious
+Rain,Wet,Dark - lights on,Rural Road,None,Rural,High,Van,80,4,4,62,23,10.2,Afternoon,Sunday,Serious
+Clear,Wet,Dark - lights on,Rural Road,T-Junction,Urban,Medium,Bus,30,1,4,64,41,6.7,Afternoon,Tuesday,Minor
+Fog,Dry,Daylight,Urban Road,None,Rural,Low,Car,100,4,1,70,32,8.0,Morning,Friday,Serious
+Rain,Dry,Daylight,Urban Road,Roundabout,Urban,High,Car,80,1,6,57,37,6.1,Afternoon,Wednesday,Serious
+Clear,Dry,Daylight,Urban Road,Crossroads,Urban,Low,Car,60,4,6,53,6,6.1,Evening,Sunday,Serious
+Fog,Wet,Daylight,Urban Road,T-Junction,Urban,Medium,Car,100,4,4,67,40,13.1,Evening,Thursday,Serious
+Clear,Wet,Dark - lights on,Urban Road,None,Urban,Medium,Car,120,3,2,20,5,14.5,Afternoon,Wednesday,Minor
+Fog,Dry,Dark - lights on,Rural Road,None,Rural,Low,Motorcycle,80,2,4,46,16,13.3,Morning,Monday,Serious
+Clear,Dry,Dark - lights on,Urban Road,None,Rural,Low,Van,60,3,1,40,23,10.6,Night,Tuesday,Minor
+Clear,Wet,Daylight,Rural Road,Roundabout,Urban,Medium,Car,100,5,2,36,0,11.3,Afternoon,Sunday,Serious
+Rain,Dry,Dark - lights on,Residential,Roundabout,Rural,Low,Truck,100,5,0,55,4,3.1,Morning,Thursday,Serious
+Clear,Dry,Daylight,Urban Road,Crossroads,Urban,Medium,Motorcycle,120,1,3,43,0,5.6,Morning,Thursday,Serious
+Rain,Dry,Daylight,Rural Road,T-Junction,Urban,High,Car,40,1,1,37,18,10.2,Evening,Sunday,Minor
+Clear,Dry,Dark - lights on,Rural Road,None,Rural,High,Motorcycle,70,4,6,51,11,11.4,Morning,Thursday,Fatal
+Clear,Flooded,Dawn/Dusk,Highway,None,Urban,High,Motorcycle,70,3,3,40,28,4.5,Morning,Saturday,Fatal
+Clear,Dry,Daylight,Highway,Crossroads,Rural,Medium,Truck,50,3,5,61,37,7.0,Evening,Monday,Serious
+Clear,Wet,Daylight,Urban Road,None,Urban,Medium,Car,80,2,2,25,24,5.0,Evening,Thursday,Minor
+Clear,Dry,Daylight,Urban Road,Crossroads,Urban,Medium,Car,80,1,0,55,23,1.5,Afternoon,Monday,Minor
+Clear,Wet,Dawn/Dusk,Highway,None,Rural,Low,Car,60,2,6,51,44,12.2,Evening,Wednesday,Serious
+Rain,Dry,Daylight,Highway,Roundabout,Urban,High,Van,100,3,1,31,30,9.9,Evening,Tuesday,Serious
+Rain,Dry,Daylight,Highway,T-Junction,Urban,Medium,Van,40,5,0,40,17,5.8,Evening,Tuesday,Minor
+Rain,Dry,Dark - lights on,Residential,None,Rural,Low,Bus,70,5,0,52,4,8.2,Afternoon,Sunday,Minor
+Clear,Wet,Daylight,Highway,None,Urban,High,Car,50,3,3,67,31,14.6,Evening,Tuesday,Minor
+Clear,Wet,Daylight,Urban Road,T-Junction,Urban,Medium,Car,100,5,4,21,25,15.0,Morning,Monday,Serious
+Clear,Wet,Daylight,Rural Road,None,Urban,Medium,Car,40,2,4,47,30,0.9,Evening,Thursday,Minor
+Rain,Dry,Daylight,Urban Road,None,Urban,Medium,Car,100,1,4,40,3,15.0,Morning,Sunday,Serious
+Fog,Dry,Daylight,Rural Road,T-Junction,Urban,Low,Car,80,4,2,42,15,15.0,Evening,Sunday,Serious
+Clear,Dry,Daylight,Highway,None,Urban,Low,Car,70,3,4,62,41,0.7,Evening,Thursday,Serious
+Clear,Wet,Dark - lights off,Residential,Roundabout,Urban,Low,Motorcycle,120,2,1,30,8,12.9,Morning,Thursday,Serious
+Rain,Dry,Daylight,Highway,T-Junction,Rural,High,Car,70,5,2,21,31,11.5,Morning,Sunday,Serious
+Clear,Wet,Daylight,Rural Road,None,Urban,High,Car,60,2,5,46,20,10.5,Evening,Thursday,Serious
+Clear,Flooded,Daylight,Highway,T-Junction,Urban,Medium,Car,70,3,0,33,43,14.1,Night,Tuesday,Minor
+Rain,Dry,Daylight,Urban Road,T-Junction,Urban,Medium,Car,80,2,3,40,31,1.5,Morning,Tuesday,Serious
+Clear,Wet,Daylight,Rural Road,Crossroads,Urban,Low,Car,40,5,6,45,42,6.9,Afternoon,Sunday,Serious
+Clear,Dry,Daylight,Rural Road,Roundabout,Urban,Medium,Car,80,5,2,68,37,10.8,Evening,Sunday,Minor
+Clear,Dry,Daylight,Residential,Crossroads,Urban,Medium,Motorcycle,80,5,6,45,39,2.9,Morning,Thursday,Fatal
+Clear,Dry,Dark - lights on,Urban Road,T-Junction,Rural,High,Motorcycle,40,1,0,23,39,7.0,Afternoon,Wednesday,Minor
+Windy,Dry,Dark - lights on,Highway,None,Urban,Medium,Car,100,1,1,33,17,9.8,Evening,Friday,Minor
+Windy,Wet,Daylight,Urban Road,Crossroads,Urban,High,Car,120,2,1,31,33,11.6,Evening,Monday,Minor
+Windy,Wet,Daylight,Rural Road,None,Urban,Low,Motorcycle,80,3,6,20,28,4.8,Night,Tuesday,Fatal
+Windy,Icy,Daylight,Highway,T-Junction,Urban,Medium,Car,120,4,2,27,36,4.6,Evening,Tuesday,Serious
+Clear,Wet,Daylight,Rural Road,None,Urban,Low,Car,50,5,0,38,5,7.2,Evening,Saturday,Minor
+Clear,Dry,Daylight,Highway,None,Urban,High,Motorcycle,120,5,6,53,8,8.6,Morning,Monday,Fatal
+Clear,Dry,Daylight,Highway,T-Junction,Urban,Low,Car,30,5,6,22,25,12.9,Evening,Thursday,Serious
+Clear,Dry,Daylight,Highway,Roundabout,Urban,Medium,Car,40,5,1,21,8,12.9,Afternoon,Saturday,Minor
+Clear,Dry,Daylight,Residential,T-Junction,Rural,Medium,Motorcycle,40,1,1,49,3,0.7,Afternoon,Wednesday,Minor
+Clear,Wet,Daylight,Urban Road,T-Junction,Rural,Medium,Car,70,2,5,35,20,14.5,Morning,Monday,Minor
+Clear,Dry,Dawn/Dusk,Rural Road,None,Rural,Low,Car,70,3,4,38,35,11.0,Morning,Thursday,Minor
+Windy,Dry,Daylight,Highway,T-Junction,Urban,High,Car,80,1,6,37,1,1.3,Night,Saturday,Fatal
+Clear,Wet,Daylight,Highway,T-Junction,Urban,Medium,Car,50,5,0,57,44,6.5,Afternoon,Monday,Minor
+Clear,Wet,Dark - lights off,Highway,T-Junction,Urban,Medium,Van,70,1,2,41,24,1.5,Evening,Friday,Minor
+Rain,Wet,Daylight,Rural Road,Crossroads,Rural,Medium,Car,50,2,0,32,0,14.9,Afternoon,Monday,Minor
+Fog,Icy,Dark - lights on,Urban Road,None,Urban,Medium,Car,30,4,6,67,16,4.6,Evening,Wednesday,Serious
+Windy,Dry,Dawn/Dusk,Urban Road,None,Urban,High,Bus,60,3,1,47,9,11.7,Morning,Thursday,Minor
+Windy,Dry,Daylight,Urban Road,None,Urban,High,Bus,40,3,5,42,33,6.9,Evening,Wednesday,Serious
+Rain,Dry,Dark - lights on,Urban Road,Crossroads,Urban,Low,Car,80,5,6,44,3,11.9,Afternoon,Friday,Fatal
+Clear,Icy,Daylight,Highway,None,Urban,Medium,Motorcycle,60,3,2,67,43,11.9,Morning,Monday,Serious
+Rain,Dry,Dark - lights off,Urban Road,None,Urban,Low,Car,70,4,5,52,6,12.2,Afternoon,Sunday,Serious
+Clear,Dry,Dark - lights on,Rural Road,None,Rural,High,Car,80,2,4,54,18,1.0,Evening,Wednesday,Serious
+Clear,Icy,Dawn/Dusk,Urban Road,None,Rural,Medium,Bus,40,1,0,23,39,11.3,Morning,Tuesday,Serious
+Clear,Dry,Daylight,Highway,None,Urban,Medium,Car,120,4,6,38,9,13.6,Afternoon,Wednesday,Serious
+Clear,Dry,Dawn/Dusk,Highway,None,Rural,Medium,Bus,40,5,3,66,24,11.9,Morning,Sunday,Serious
+Clear,Wet,Daylight,Urban Road,Crossroads,Urban,Low,Car,50,3,1,19,26,12.1,Afternoon,Sunday,Minor
+Rain,Wet,Dawn/Dusk,Highway,Crossroads,Urban,High,Car,70,4,6,52,39,8.2,Evening,Tuesday,Fatal
+Clear,Dry,Daylight,Rural Road,None,Rural,High,Car,100,1,1,19,7,12.5,Morning,Thursday,Serious
+Fog,Wet,Daylight,Urban Road,None,Urban,High,Car,100,1,2,56,11,4.3,Morning,Wednesday,Serious
+Clear,Dry,Dawn/Dusk,Urban Road,None,Rural,Low,Car,80,4,6,59,16,3.9,Night,Sunday,Serious
+Clear,Wet,Dark - lights on,Urban Road,T-Junction,Rural,High,Car,80,4,2,19,40,14.4,Afternoon,Tuesday,Serious
+Clear,Wet,Dark - lights off,Rural Road,T-Junction,Rural,Medium,Car,60,2,1,65,4,8.3,Morning,Saturday,Minor
+Rain,Dry,Daylight,Rural Road,T-Junction,Urban,Medium,Car,70,5,2,19,11,12.8,Afternoon,Sunday,Minor
+Clear,Wet,Daylight,Urban Road,None,Urban,Low,Bus,70,3,2,27,21,12.3,Morning,Saturday,Minor
+Windy,Dry,Daylight,Highway,T-Junction,Rural,Medium,Motorcycle,80,2,1,31,16,7.6,Morning,Monday,Serious
+Clear,Icy,Daylight,Highway,Crossroads,Rural,Medium,Motorcycle,40,5,4,18,12,1.4,Morning,Thursday,Fatal
+Clear,Dry,Daylight,Urban Road,Crossroads,Urban,Medium,Car,70,1,1,64,23,7.0,Night,Sunday,Minor
+Clear,Wet,Daylight,Urban Road,Crossroads,Rural,Medium,Bus,120,3,3,50,31,10.5,Evening,Sunday,Serious
+Clear,Dry,Dark - lights on,Rural Road,Roundabout,Urban,Medium,Van,120,2,6,68,11,14.5,Night,Thursday,Serious
+Clear,Icy,Daylight,Rural Road,None,Urban,High,Car,80,1,0,19,19,7.4,Evening,Monday,Serious
+Rain,Icy,Daylight,Residential,None,Rural,Medium,Car,30,4,1,61,28,11.1,Afternoon,Friday,Serious
+Rain,Flooded,Daylight,Urban Road,Roundabout,Rural,Medium,Motorcycle,30,1,1,18,8,2.2,Evening,Wednesday,Serious
+Rain,Dry,Daylight,Rural Road,T-Junction,Urban,High,Motorcycle,30,5,3,62,2,9.4,Afternoon,Wednesday,Serious
+Rain,Dry,Daylight,Urban Road,T-Junction,Urban,Low,Car,120,4,3,37,39,8.9,Evening,Tuesday,Serious
+Clear,Dry,Daylight,Highway,Crossroads,Urban,Low,Bus,70,5,6,57,14,12.9,Afternoon,Monday,Serious
+Clear,Icy,Daylight,Residential,Roundabout,Urban,Low,Bus,30,4,5,66,1,12.1,Night,Sunday,Fatal
+Rain,Dry,Dark - lights on,Urban Road,None,Urban,Medium,Van,80,5,2,67,37,0.9,Morning,Monday,Serious
+Clear,Wet,Daylight,Rural Road,None,Rural,Medium,Motorcycle,50,5,5,65,31,14.1,Evening,Friday,Serious
+Windy,Wet,Daylight,Rural Road,Crossroads,Urban,Low,Car,70,5,2,23,7,14.6,Morning,Thursday,Minor
+Clear,Dry,Daylight,Highway,None,Rural,Low,Car,60,1,5,39,35,12.2,Afternoon,Thursday,Serious
+Clear,Flooded,Dark - lights on,Urban Road,Crossroads,Urban,Low,Car,100,5,3,56,6,2.0,Afternoon,Monday,Fatal
+Rain,Dry,Daylight,Highway,Roundabout,Urban,Low,Truck,120,4,3,55,5,8.6,Evening,Thursday,Fatal
+Windy,Wet,Daylight,Residential,Roundabout,Rural,Medium,Van,50,4,0,56,17,4.2,Morning,Thursday,Minor
+Windy,Dry,Daylight,Rural Road,None,Urban,Medium,Van,30,1,6,35,32,3.8,Afternoon,Wednesday,Minor
+Clear,Dry,Dark - lights on,Residential,None,Urban,Low,Bus,50,3,3,26,2,9.3,Evening,Friday,Minor
+Clear,Wet,Dark - lights on,Highway,None,Urban,Medium,Car,40,2,0,31,13,7.0,Afternoon,Tuesday,Minor
+Windy,Dry,Daylight,Highway,T-Junction,Rural,Low,Car,70,5,3,56,35,6.9,Morning,Tuesday,Serious
+Clear,Icy,Dark - lights off,Rural Road,None,Urban,Low,Van,70,4,1,60,12,0.5,Morning,Friday,Serious
+Clear,Flooded,Dark - lights on,Urban Road,None,Urban,Medium,Car,60,4,4,62,8,2.0,Night,Thursday,Serious
+Rain,Wet,Daylight,Highway,T-Junction,Urban,Medium,Car,60,4,3,31,12,14.2,Morning,Sunday,Serious
+Clear,Dry,Dark - lights on,Residential,None,Rural,Low,Car,120,5,6,56,19,12.3,Afternoon,Thursday,Fatal
+Clear,Dry,Daylight,Urban Road,T-Junction,Rural,Low,Van,70,2,5,29,36,9.3,Afternoon,Sunday,Serious
+Clear,Dry,Daylight,Rural Road,None,Urban,High,Van,120,4,6,34,25,5.0,Morning,Friday,Fatal
+Fog,Wet,Daylight,Residential,None,Rural,Medium,Truck,100,4,5,50,15,2.3,Morning,Saturday,Fatal
+Clear,Dry,Daylight,Residential,None,Urban,Low,Bus,100,3,5,61,9,8.4,Evening,Wednesday,Serious
+Clear,Dry,Daylight,Residential,Roundabout,Urban,High,Van,30,1,0,48,15,9.1,Night,Friday,Minor
+Rain,Wet,Daylight,Highway,None,Urban,Medium,Car,40,5,1,58,11,2.0,Evening,Tuesday,Serious
+Clear,Wet,Dark - lights on,Urban Road,None,Urban,High,Motorcycle,70,1,6,35,9,4.6,Evening,Wednesday,Serious
+Clear,Wet,Dark - lights on,Residential,None,Rural,Medium,Car,60,5,2,45,27,7.2,Afternoon,Monday,Minor
+Clear,Wet,Daylight,Rural Road,Roundabout,Urban,High,Bus,50,3,2,48,23,6.4,Evening,Monday,Minor
+Clear,Dry,Dark - lights on,Rural Road,None,Urban,Low,Motorcycle,40,3,2,42,27,12.2,Evening,Thursday,Minor
+Rain,Dry,Daylight,Urban Road,None,Urban,Medium,Motorcycle,60,3,6,65,37,6.6,Afternoon,Tuesday,Serious
+Clear,Dry,Daylight,Residential,Roundabout,Rural,Low,Motorcycle,30,4,3,47,43,12.0,Morning,Wednesday,Serious
+Rain,Dry,Dark - lights on,Highway,Crossroads,Rural,Low,Car,50,4,6,61,9,2.1,Evening,Wednesday,Fatal
+Clear,Dry,Daylight,Rural Road,None,Rural,Medium,Truck,30,4,6,47,38,13.8,Night,Thursday,Serious
+Clear,Dry,Daylight,Urban Road,None,Urban,Medium,Car,100,1,3,56,45,10.0,Evening,Saturday,Serious
+Clear,Dry,Dark - lights on,Rural Road,None,Rural,Medium,Car,120,2,3,60,9,14.0,Afternoon,Sunday,Serious
+Clear,Dry,Dark - lights on,Rural Road,T-Junction,Rural,Medium,Truck,80,1,6,24,38,13.8,Afternoon,Monday,Serious
+Clear,Dry,Daylight,Residential,T-Junction,Urban,Medium,Car,50,5,4,28,8,1.3,Night,Monday,Serious
+Clear,Wet,Dark - lights off,Urban Road,None,Urban,Medium,Car,100,2,1,56,42,11.3,Evening,Friday,Minor
+Rain,Dry,Dark - lights on,Residential,Crossroads,Urban,Low,Car,40,5,6,58,10,7.4,Afternoon,Wednesday,Serious
+Clear,Dry,Daylight,Urban Road,T-Junction,Rural,High,Motorcycle,40,5,2,40,9,4.5,Evening,Wednesday,Minor
+Clear,Dry,Daylight,Highway,None,Urban,Medium,Car,60,3,4,28,19,13.4,Evening,Wednesday,Minor
+Rain,Dry,Dark - lights on,Highway,None,Rural,Low,Van,70,2,1,34,10,4.3,Morning,Friday,Minor
+Snow,Dry,Dawn/Dusk,Highway,Crossroads,Rural,Low,Motorcycle,60,2,0,42,6,4.9,Afternoon,Thursday,Serious
+Clear,Dry,Daylight,Urban Road,T-Junction,Urban,Medium,Bus,100,2,4,28,11,4.5,Afternoon,Sunday,Serious
+Snow,Wet,Dark - lights off,Highway,T-Junction,Rural,Low,Car,40,4,4,33,33,10.8,Night,Sunday,Serious
+Clear,Dry,Daylight,Rural Road,Roundabout,Urban,Medium,Motorcycle,60,3,6,39,12,1.5,Night,Thursday,Serious
+Clear,Icy,Dark - lights on,Highway,None,Urban,Low,Motorcycle,60,5,6,57,34,9.0,Afternoon,Wednesday,Fatal
+Clear,Dry,Daylight,Residential,Roundabout,Urban,High,Car,50,2,0,50,20,2.0,Afternoon,Saturday,Minor
+Snow,Dry,Daylight,Urban Road,T-Junction,Urban,Low,Truck,50,3,1,40,25,6.4,Morning,Saturday,Minor
+Clear,Dry,Daylight,Urban Road,None,Urban,High,Van,60,4,1,39,10,13.4,Morning,Saturday,Minor
+Rain,Wet,Dark - lights off,Residential,Roundabout,Urban,High,Car,50,1,4,31,14,14.8,Evening,Saturday,Serious
+Clear,Dry,Dark - lights on,Highway,None,Rural,Medium,Car,60,1,4,67,3,8.1,Evening,Thursday,Minor
+Rain,Dry,Daylight,Rural Road,None,Urban,Medium,Car,30,4,4,21,22,9.1,Night,Wednesday,Serious
+Rain,Wet,Daylight,Urban Road,None,Urban,Medium,Car,30,4,1,64,13,7.9,Evening,Tuesday,Minor
+Fog,Wet,Dark - lights on,Urban Road,T-Junction,Urban,Medium,Van,60,3,1,22,5,11.5,Evening,Sunday,Minor
+Windy,Dry,Daylight,Rural Road,Crossroads,Urban,Medium,Van,40,2,2,43,43,11.2,Morning,Monday,Minor
+Clear,Dry,Daylight,Urban Road,T-Junction,Urban,High,Motorcycle,70,5,6,50,17,4.5,Morning,Sunday,Serious
+Fog,Wet,Daylight,Highway,Roundabout,Urban,Low,Car,120,1,0,20,0,8.8,Morning,Tuesday,Serious
+Rain,Dry,Dark - lights on,Residential,None,Urban,Medium,Motorcycle,30,5,4,33,34,7.3,Afternoon,Tuesday,Serious
+Clear,Dry,Dark - lights on,Urban Road,Roundabout,Urban,Medium,Truck,80,4,0,44,25,7.8,Morning,Saturday,Serious
+Clear,Dry,Dawn/Dusk,Urban Road,None,Urban,Low,Van,40,4,0,70,10,1.6,Afternoon,Monday,Minor
+Rain,Dry,Dark - lights on,Urban Road,None,Urban,Medium,Motorcycle,70,2,2,25,40,7.4,Afternoon,Friday,Minor
+Clear,Wet,Daylight,Urban Road,None,Urban,High,Motorcycle,50,4,0,58,14,3.9,Afternoon,Saturday,Minor
+Clear,Dry,Dawn/Dusk,Rural Road,T-Junction,Rural,Medium,Bus,100,1,0,28,11,1.9,Afternoon,Saturday,Serious
+Clear,Dry,Daylight,Urban Road,None,Rural,Medium,Motorcycle,70,3,3,31,21,3.3,Evening,Saturday,Serious
+Clear,Wet,Dark - lights on,Rural Road,Crossroads,Rural,Low,Truck,100,4,0,34,17,10.0,Evening,Saturday,Minor
+Rain,Icy,Daylight,Highway,Crossroads,Urban,Low,Motorcycle,120,3,4,29,26,3.8,Evening,Friday,Fatal
+Clear,Dry,Dawn/Dusk,Residential,T-Junction,Urban,Medium,Car,40,5,0,70,34,9.6,Morning,Friday,Minor
+Clear,Wet,Daylight,Residential,Crossroads,Rural,Medium,Motorcycle,80,3,4,49,40,13.6,Evening,Thursday,Serious
+Windy,Flooded,Dark - lights on,Rural Road,Crossroads,Urban,Medium,Truck,60,1,3,40,8,12.8,Night,Saturday,Serious
+Clear,Wet,Daylight,Rural Road,Crossroads,Urban,High,Car,70,1,6,34,5,10.5,Afternoon,Wednesday,Serious
+Snow,Dry,Dark - lights on,Highway,Crossroads,Urban,Low,Truck,70,2,4,50,15,8.5,Evening,Tuesday,Serious
+Clear,Wet,Daylight,Residential,Roundabout,Rural,Medium,Car,100,5,4,51,32,10.7,Evening,Sunday,Serious
+Snow,Wet,Daylight,Residential,T-Junction,Urban,Low,Car,80,3,4,64,14,8.4,Morning,Friday,Serious
+Rain,Wet,Daylight,Urban Road,T-Junction,Urban,Medium,Motorcycle,70,4,5,59,44,8.8,Afternoon,Tuesday,Fatal
+Clear,Wet,Daylight,Rural Road,T-Junction,Rural,Low,Car,120,2,1,48,10,12.9,Night,Friday,Minor
+Rain,Dry,Daylight,Urban Road,Crossroads,Urban,High,Van,30,3,0,41,22,6.4,Evening,Sunday,Minor
+Windy,Dry,Dark - lights on,Highway,None,Rural,High,Car,60,4,3,49,37,10.7,Morning,Sunday,Serious
+Clear,Dry,Daylight,Urban Road,T-Junction,Rural,High,Car,60,5,1,55,12,8.3,Afternoon,Sunday,Minor
+Clear,Dry,Daylight,Highway,Roundabout,Urban,Low,Car,80,5,0,63,12,10.8,Afternoon,Monday,Serious
+Snow,Dry,Daylight,Highway,None,Urban,Medium,Motorcycle,30,5,2,68,5,0.8,Night,Saturday,Serious
+Clear,Flooded,Daylight,Rural Road,T-Junction,Urban,Medium,Car,60,1,0,47,45,3.8,Night,Sunday,Minor
+Clear,Wet,Daylight,Urban Road,None,Rural,Low,Car,120,4,2,56,33,7.5,Afternoon,Sunday,Minor
+Clear,Dry,Dark - lights on,Urban Road,None,Urban,Medium,Car,100,3,3,37,24,7.9,Morning,Saturday,Serious
+Rain,Dry,Daylight,Residential,None,Urban,Medium,Truck,100,2,6,62,15,1.5,Afternoon,Tuesday,Fatal
+Clear,Dry,Daylight,Rural Road,None,Urban,Medium,Van,70,2,1,33,38,0.7,Morning,Monday,Minor
+Clear,Dry,Daylight,Urban Road,Roundabout,Rural,Medium,Car,30,3,5,70,18,6.0,Night,Monday,Serious
+Snow,Dry,Daylight,Highway,Roundabout,Rural,Medium,Car,50,4,1,69,35,2.9,Night,Friday,Serious
+Fog,Wet,Daylight,Highway,T-Junction,Urban,High,Car,60,5,2,29,45,11.6,Morning,Wednesday,Serious
+Rain,Wet,Daylight,Residential,T-Junction,Rural,High,Van,40,5,4,48,6,10.7,Morning,Saturday,Serious
+Clear,Dry,Dark - lights on,Highway,T-Junction,Rural,Low,Car,70,3,2,23,38,13.2,Afternoon,Saturday,Minor
+Clear,Dry,Daylight,Rural Road,None,Urban,High,Van,120,2,4,52,45,8.8,Evening,Sunday,Serious
+Clear,Dry,Dawn/Dusk,Urban Road,Crossroads,Urban,Low,Car,60,2,0,25,23,3.8,Morning,Thursday,Minor
+Fog,Dry,Daylight,Urban Road,Roundabout,Urban,Medium,Truck,40,2,1,28,43,0.9,Evening,Monday,Serious
+Clear,Dry,Daylight,Urban Road,Roundabout,Urban,Medium,Bus,50,1,1,48,19,0.7,Morning,Wednesday,Minor
+Rain,Wet,Daylight,Residential,T-Junction,Urban,Medium,Car,100,1,2,22,38,2.1,Evening,Tuesday,Serious
+Rain,Wet,Dark - lights on,Highway,None,Rural,Medium,Car,80,4,4,39,43,4.7,Afternoon,Monday,Serious
+Windy,Wet,Dark - lights on,Rural Road,None,Urban,Medium,Truck,30,1,5,35,40,2.0,Afternoon,Monday,Serious
+Clear,Dry,Dark - lights on,Urban Road,T-Junction,Urban,Medium,Truck,100,2,5,41,22,4.0,Morning,Thursday,Fatal
+Clear,Dry,Dawn/Dusk,Rural Road,Crossroads,Urban,High,Bus,50,4,5,65,17,11.5,Morning,Thursday,Fatal
+Windy,Dry,Dark - lights on,Urban Road,Roundabout,Urban,Medium,Car,40,3,0,54,30,8.8,Morning,Tuesday,Minor
+Windy,Dry,Daylight,Urban Road,Crossroads,Urban,Medium,Van,50,4,5,28,10,4.8,Evening,Wednesday,Serious
+Rain,Wet,Dark - lights on,Urban Road,None,Urban,High,Car,60,5,3,24,9,1.9,Night,Wednesday,Serious
+Clear,Dry,Daylight,Rural Road,Crossroads,Rural,Low,Car,40,2,2,68,37,12.5,Evening,Saturday,Minor
+Rain,Wet,Daylight,Highway,T-Junction,Urban,High,Car,80,2,6,67,23,7.1,Morning,Tuesday,Fatal
+Windy,Flooded,Dark - lights on,Rural Road,Crossroads,Urban,Medium,Car,70,4,4,38,12,8.1,Morning,Sunday,Serious
+Windy,Dry,Daylight,Residential,None,Urban,Medium,Motorcycle,30,4,1,22,36,4.7,Evening,Sunday,Minor
+Fog,Dry,Daylight,Urban Road,None,Urban,Low,Car,30,5,6,19,38,9.6,Morning,Saturday,Serious
+Clear,Dry,Dark - lights on,Residential,None,Urban,Medium,Van,120,3,0,54,42,7.4,Afternoon,Wednesday,Minor
+Clear,Dry,Daylight,Urban Road,None,Urban,Medium,Van,80,5,6,66,41,13.4,Morning,Sunday,Serious
+Windy,Dry,Dark - lights on,Urban Road,None,Urban,Medium,Truck,100,4,4,39,35,11.7,Afternoon,Thursday,Serious
+Rain,Wet,Daylight,Urban Road,None,Urban,Medium,Car,100,4,4,22,38,12.9,Morning,Wednesday,Serious
+Clear,Wet,Daylight,Urban Road,T-Junction,Urban,Low,Motorcycle,120,1,5,45,0,4.4,Evening,Friday,Fatal
+Fog,Dry,Dark - lights on,Urban Road,Crossroads,Urban,Medium,Bus,30,2,6,19,42,8.7,Afternoon,Sunday,Serious
+Clear,Dry,Dawn/Dusk,Rural Road,Crossroads,Urban,High,Bus,80,5,3,22,32,6.0,Night,Friday,Fatal
+Clear,Dry,Daylight,Urban Road,Crossroads,Urban,Medium,Car,30,1,5,48,34,6.3,Evening,Wednesday,Serious
+Clear,Wet,Daylight,Highway,Roundabout,Urban,High,Truck,30,4,1,57,14,4.6,Morning,Friday,Serious
+Clear,Dry,Daylight,Highway,None,Urban,High,Motorcycle,80,5,6,48,33,12.0,Evening,Monday,Fatal
+Clear,Dry,Daylight,Urban Road,Crossroads,Urban,Medium,Car,30,4,4,27,42,6.5,Morning,Sunday,Serious
+Rain,Dry,Dawn/Dusk,Urban Road,T-Junction,Urban,Medium,Motorcycle,40,1,2,41,24,7.1,Afternoon,Wednesday,Minor
+Clear,Dry,Daylight,Residential,None,Urban,High,Motorcycle,120,5,1,52,14,12.1,Night,Monday,Serious
+Clear,Dry,Dark - lights on,Rural Road,None,Urban,High,Car,70,5,2,20,32,4.6,Morning,Saturday,Minor
+Clear,Dry,Dark - lights on,Urban Road,T-Junction,Rural,High,Car,80,2,0,26,20,4.7,Afternoon,Wednesday,Minor
+Rain,Dry,Dawn/Dusk,Rural Road,None,Urban,Low,Car,100,4,2,49,38,10.0,Afternoon,Friday,Serious
+Windy,Wet,Daylight,Urban Road,T-Junction,Urban,Medium,Car,80,1,3,23,5,7.9,Afternoon,Sunday,Minor
+Rain,Dry,Dawn/Dusk,Urban Road,T-Junction,Rural,Medium,Bus,40,2,0,62,10,3.0,Night,Friday,Minor
+Clear,Dry,Daylight,Rural Road,T-Junction,Urban,Low,Car,70,1,5,42,11,10.9,Night,Friday,Serious
+Clear,Wet,Daylight,Highway,T-Junction,Rural,Medium,Car,30,2,2,24,20,2.8,Night,Friday,Minor
+Clear,Dry,Dawn/Dusk,Highway,Roundabout,Rural,High,Bus,40,4,6,51,41,1.7,Evening,Wednesday,Fatal
+Fog,Dry,Dark - lights on,Urban Road,None,Urban,Low,Van,30,5,4,44,19,2.6,Morning,Friday,Serious
+Fog,Dry,Dark - lights on,Urban Road,Crossroads,Urban,Medium,Car,70,1,5,57,11,4.7,Evening,Sunday,Serious
+Clear,Wet,Daylight,Highway,None,Urban,Medium,Car,30,1,0,67,38,7.9,Afternoon,Monday,Minor
+Rain,Wet,Daylight,Highway,Crossroads,Rural,Low,Car,50,5,2,41,10,12.6,Evening,Thursday,Minor
+Clear,Wet,Dark - lights on,Residential,None,Urban,Medium,Motorcycle,70,5,5,57,32,10.5,Night,Sunday,Serious
+Clear,Dry,Dark - lights on,Highway,Crossroads,Urban,Medium,Car,100,2,1,62,11,1.1,Morning,Monday,Minor
+Clear,Dry,Dark - lights on,Rural Road,Crossroads,Rural,Low,Car,40,5,0,30,1,13.2,Morning,Monday,Minor
+Rain,Wet,Daylight,Highway,None,Rural,Low,Van,70,2,1,53,14,13.4,Morning,Monday,Minor
+Rain,Flooded,Daylight,Urban Road,Roundabout,Urban,Medium,Car,80,3,4,26,29,3.7,Night,Saturday,Serious
+Clear,Wet,Dark - lights on,Urban Road,T-Junction,Urban,Medium,Car,40,5,4,69,0,12.6,Morning,Saturday,Serious
+Clear,Dry,Daylight,Highway,None,Rural,Medium,Motorcycle,70,4,5,23,26,1.2,Night,Thursday,Serious
+Clear,Dry,Daylight,Urban Road,None,Rural,Medium,Car,50,1,3,36,28,6.5,Afternoon,Friday,Minor
+Clear,Wet,Dawn/Dusk,Residential,None,Urban,Medium,Motorcycle,80,4,1,46,2,1.0,Morning,Sunday,Serious
+Clear,Dry,Dark - lights on,Rural Road,Roundabout,Urban,Medium,Car,100,5,5,42,20,6.2,Morning,Monday,Serious
+Clear,Dry,Daylight,Urban Road,None,Urban,Medium,Car,50,3,3,61,39,7.7,Night,Sunday,Minor
+Rain,Dry,Daylight,Urban Road,None,Urban,Medium,Van,40,5,1,19,17,1.1,Night,Saturday,Serious
+Clear,Dry,Dawn/Dusk,Residential,Crossroads,Urban,Low,Car,50,2,5,35,16,13.0,Afternoon,Saturday,Serious
+Rain,Dry,Dawn/Dusk,Highway,T-Junction,Rural,Medium,Truck,120,3,6,68,36,2.8,Afternoon,Tuesday,Fatal
+Clear,Dry,Dark - lights on,Urban Road,Crossroads,Rural,Low,Bus,100,5,3,36,10,2.7,Morning,Tuesday,Serious
+Clear,Dry,Dark - lights on,Residential,None,Urban,High,Bus,120,2,1,54,3,14.6,Morning,Monday,Minor
+Clear,Dry,Daylight,Highway,None,Urban,High,Car,30,5,0,55,2,5.6,Afternoon,Saturday,Minor
+Clear,Icy,Dawn/Dusk,Urban Road,Roundabout,Rural,Low,Car,30,2,1,46,43,10.4,Afternoon,Tuesday,Serious
+Clear,Dry,Daylight,Highway,None,Rural,Low,Car,120,3,4,47,39,0.6,Afternoon,Monday,Serious
+Clear,Icy,Daylight,Highway,None,Rural,Medium,Van,70,2,0,30,35,14.5,Evening,Wednesday,Minor
+Clear,Dry,Dark - lights on,Urban Road,T-Junction,Urban,Medium,Car,80,4,2,37,33,11.5,Evening,Monday,Minor
+Windy,Dry,Dark - lights on,Urban Road,None,Urban,High,Car,100,5,4,65,23,11.9,Evening,Friday,Serious
+Rain,Dry,Dark - lights on,Rural Road,None,Urban,Low,Truck,60,2,1,32,37,11.6,Morning,Tuesday,Minor
+Clear,Dry,Daylight,Urban Road,None,Rural,Low,Truck,100,3,3,19,16,3.7,Morning,Saturday,Serious
+Rain,Dry,Daylight,Urban Road,None,Urban,Medium,Motorcycle,80,4,0,29,7,5.2,Afternoon,Thursday,Serious
+Clear,Dry,Dark - lights on,Highway,T-Junction,Rural,Low,Truck,70,4,0,34,21,13.9,Night,Wednesday,Minor
+Snow,Wet,Dark - lights on,Rural Road,None,Rural,High,Car,120,5,6,59,0,5.2,Morning,Friday,Fatal
+Clear,Dry,Dark - lights off,Residential,Crossroads,Urban,High,Car,60,2,3,41,6,6.8,Night,Tuesday,Serious
+Clear,Dry,Daylight,Residential,None,Rural,Medium,Car,70,4,5,21,7,13.8,Afternoon,Monday,Serious
+Rain,Dry,Daylight,Urban Road,Roundabout,Urban,Medium,Motorcycle,120,3,5,65,14,9.7,Night,Saturday,Fatal
+Clear,Dry,Daylight,Rural Road,None,Urban,Low,Van,120,4,3,65,22,4.3,Afternoon,Thursday,Serious
+Fog,Icy,Daylight,Urban Road,None,Urban,Low,Motorcycle,120,1,3,45,44,6.3,Afternoon,Tuesday,Fatal
+Clear,Wet,Daylight,Urban Road,T-Junction,Rural,Medium,Car,50,2,5,61,1,9.6,Afternoon,Wednesday,Serious
+Clear,Dry,Daylight,Residential,None,Urban,Medium,Car,120,5,2,62,24,3.0,Night,Tuesday,Minor
+Fog,Dry,Daylight,Highway,None,Rural,Low,Car,100,1,4,68,31,9.8,Afternoon,Sunday,Serious
+Clear,Dry,Dawn/Dusk,Residential,None,Rural,High,Car,80,4,0,63,36,13.5,Night,Thursday,Serious
+Clear,Dry,Daylight,Urban Road,T-Junction,Rural,Low,Car,60,2,1,30,4,8.0,Night,Wednesday,Minor
+Windy,Dry,Daylight,Highway,None,Urban,Low,Car,120,3,3,54,12,0.8,Afternoon,Sunday,Serious
+Rain,Dry,Daylight,Rural Road,None,Urban,Medium,Truck,80,2,4,29,12,10.2,Morning,Saturday,Serious
+Rain,Dry,Daylight,Highway,Crossroads,Urban,Medium,Car,80,2,5,41,7,2.7,Evening,Wednesday,Fatal
+Clear,Wet,Daylight,Urban Road,T-Junction,Rural,Medium,Car,120,5,0,18,41,2.3,Morning,Friday,Serious
+Clear,Flooded,Daylight,Urban Road,T-Junction,Rural,Medium,Car,70,5,0,46,22,10.0,Evening,Wednesday,Minor
+Rain,Dry,Dark - lights on,Urban Road,Crossroads,Urban,Medium,Car,70,3,3,59,32,5.0,Morning,Sunday,Minor
+Windy,Dry,Dark - lights on,Urban Road,Roundabout,Urban,Low,Car,70,3,3,18,42,1.5,Morning,Tuesday,Serious
+Clear,Dry,Daylight,Urban Road,Roundabout,Urban,Low,Car,60,4,0,44,11,10.3,Evening,Saturday,Minor
+Clear,Dry,Daylight,Highway,Roundabout,Urban,High,Motorcycle,120,5,1,40,38,9.0,Evening,Sunday,Serious
+Windy,Wet,Dark - lights on,Urban Road,T-Junction,Urban,Low,Motorcycle,120,5,5,46,42,5.4,Morning,Tuesday,Fatal
+Rain,Dry,Daylight,Rural Road,Crossroads,Urban,Medium,Motorcycle,70,5,5,65,28,11.0,Afternoon,Friday,Serious
+Clear,Icy,Daylight,Highway,Crossroads,Rural,Medium,Car,100,4,5,67,45,10.0,Night,Tuesday,Fatal
+Windy,Dry,Daylight,Rural Road,None,Urban,High,Car,30,4,1,31,18,14.0,Evening,Wednesday,Minor
+Clear,Wet,Daylight,Urban Road,T-Junction,Urban,Medium,Car,40,1,6,63,28,4.3,Evening,Monday,Serious
+Snow,Icy,Daylight,Urban Road,None,Rural,Medium,Truck,50,4,1,27,36,0.8,Afternoon,Friday,Serious
+Clear,Dry,Daylight,Residential,T-Junction,Urban,Low,Car,70,2,1,56,32,1.0,Afternoon,Thursday,Minor
+Rain,Dry,Dawn/Dusk,Urban Road,Roundabout,Urban,Low,Car,40,2,1,32,11,5.1,Night,Saturday,Minor
+Rain,Icy,Dark - lights on,Rural Road,None,Rural,Medium,Car,60,2,5,66,35,8.3,Morning,Friday,Serious
+Clear,Dry,Daylight,Rural Road,Roundabout,Rural,Medium,Motorcycle,70,5,1,42,34,4.1,Evening,Sunday,Minor
+Rain,Dry,Dark - lights on,Rural Road,None,Rural,High,Car,40,4,4,52,28,9.4,Afternoon,Tuesday,Serious
+Clear,Dry,Daylight,Urban Road,None,Urban,High,Car,30,1,1,43,41,13.6,Morning,Sunday,Minor
+Clear,Wet,Daylight,Rural Road,Crossroads,Rural,Low,Truck,120,1,1,70,5,0.6,Night,Tuesday,Serious
+Rain,Dry,Daylight,Highway,Roundabout,Urban,High,Car,60,2,2,51,42,8.0,Afternoon,Saturday,Serious
+Clear,Dry,Daylight,Rural Road,None,Urban,Medium,Car,120,2,4,32,36,7.3,Afternoon,Monday,Serious
+Clear,Dry,Dark - lights on,Highway,None,Urban,High,Car,100,5,3,58,4,6.9,Evening,Friday,Serious
+Windy,Dry,Daylight,Highway,T-Junction,Urban,Medium,Car,70,3,1,46,16,7.9,Evening,Wednesday,Minor
+Clear,Wet,Daylight,Residential,None,Urban,High,Bus,60,3,0,26,19,11.0,Afternoon,Tuesday,Minor
+Rain,Dry,Daylight,Rural Road,None,Urban,Medium,Car,30,5,4,20,17,2.4,Evening,Friday,Serious
+Clear,Wet,Dark - lights on,Highway,None,Urban,Low,Car,40,1,4,65,1,2.0,Evening,Wednesday,Serious
+Clear,Dry,Daylight,Rural Road,None,Rural,High,Car,60,1,6,49,45,10.1,Night,Thursday,Serious
+Clear,Dry,Dark - lights off,Residential,Roundabout,Urban,Medium,Van,70,2,5,44,30,14.1,Night,Friday,Serious
+Clear,Dry,Daylight,Rural Road,None,Urban,Medium,Car,70,1,1,29,28,13.0,Afternoon,Sunday,Minor
+Clear,Dry,Daylight,Highway,Roundabout,Urban,Low,Car,60,5,5,28,30,0.6,Afternoon,Sunday,Serious
+Clear,Dry,Daylight,Rural Road,None,Urban,Medium,Van,40,1,1,51,43,6.0,Evening,Friday,Minor
+Clear,Dry,Daylight,Residential,Roundabout,Urban,Medium,Car,30,2,2,43,10,9.7,Evening,Wednesday,Minor
+Clear,Wet,Daylight,Rural Road,None,Urban,High,Car,120,4,6,42,39,9.8,Evening,Tuesday,Fatal
+Windy,Dry,Dark - lights on,Highway,None,Urban,High,Truck,120,5,4,20,32,1.4,Afternoon,Sunday,Fatal
+Rain,Dry,Dawn/Dusk,Highway,None,Urban,Medium,Car,40,2,2,27,45,8.3,Evening,Saturday,Minor
+Windy,Dry,Dawn/Dusk,Urban Road,None,Urban,Low,Car,40,5,4,50,34,12.2,Night,Saturday,Serious
+Fog,Wet,Daylight,Urban Road,Crossroads,Urban,Medium,Car,80,3,1,45,10,7.6,Night,Thursday,Minor
+Rain,Dry,Dawn/Dusk,Residential,Crossroads,Urban,Medium,Truck,60,5,5,54,7,2.4,Morning,Monday,Fatal
+Rain,Dry,Daylight,Highway,T-Junction,Rural,Medium,Car,40,2,6,68,21,10.1,Morning,Tuesday,Serious
+Clear,Dry,Daylight,Residential,None,Urban,Medium,Car,120,5,5,50,7,5.6,Evening,Monday,Fatal
+Windy,Wet,Daylight,Highway,None,Urban,Low,Car,70,4,0,57,15,5.3,Afternoon,Friday,Minor
+Rain,Dry,Daylight,Highway,None,Urban,High,Motorcycle,120,3,0,48,1,12.2,Morning,Sunday,Serious
+Rain,Dry,Daylight,Urban Road,None,Rural,Medium,Truck,100,1,5,49,14,14.0,Morning,Saturday,Fatal
+Clear,Dry,Daylight,Highway,Roundabout,Urban,Medium,Car,40,3,3,41,32,9.6,Afternoon,Monday,Minor
+Windy,Dry,Daylight,Urban Road,None,Urban,Medium,Truck,60,3,4,56,30,11.5,Afternoon,Tuesday,Minor
+Clear,Dry,Daylight,Highway,None,Urban,Medium,Motorcycle,100,2,1,43,30,11.7,Evening,Wednesday,Serious
+Fog,Wet,Daylight,Rural Road,Roundabout,Rural,Medium,Bus,40,1,5,61,26,5.1,Afternoon,Tuesday,Serious
+Clear,Wet,Daylight,Urban Road,T-Junction,Urban,Low,Motorcycle,120,1,0,36,33,10.7,Afternoon,Wednesday,Serious
+Rain,Dry,Daylight,Rural Road,None,Rural,Low,Car,30,3,3,49,28,10.1,Morning,Monday,Serious
+Snow,Dry,Daylight,Rural Road,Roundabout,Rural,Low,Truck,40,2,2,25,25,4.2,Evening,Sunday,Minor
+Clear,Wet,Daylight,Urban Road,None,Urban,Low,Car,50,3,0,48,38,2.6,Evening,Friday,Minor
+Clear,Wet,Daylight,Urban Road,None,Rural,Medium,Motorcycle,60,2,2,59,26,7.1,Evening,Tuesday,Minor
+Clear,Dry,Daylight,Urban Road,Crossroads,Rural,High,Car,100,4,1,20,24,12.2,Afternoon,Thursday,Serious
+Clear,Dry,Dark - lights on,Rural Road,Crossroads,Urban,Low,Bus,30,2,0,67,28,9.2,Morning,Sunday,Minor
+Clear,Wet,Dark - lights on,Urban Road,T-Junction,Urban,Medium,Car,60,5,0,46,42,6.0,Afternoon,Monday,Minor
+Clear,Dry,Dark - lights on,Urban Road,T-Junction,Urban,High,Motorcycle,30,2,2,22,36,5.2,Morning,Tuesday,Minor
+Clear,Dry,Daylight,Highway,Roundabout,Urban,Medium,Car,40,2,0,29,24,1.2,Afternoon,Saturday,Minor
+Windy,Dry,Daylight,Residential,None,Rural,High,Bus,100,5,3,59,16,3.9,Afternoon,Friday,Serious
+Fog,Dry,Daylight,Rural Road,Crossroads,Rural,Low,Motorcycle,120,2,1,52,19,13.4,Morning,Monday,Serious
+Clear,Dry,Daylight,Urban Road,Crossroads,Urban,Medium,Truck,80,5,1,23,35,6.5,Evening,Monday,Minor
+Rain,Wet,Daylight,Urban Road,None,Urban,Medium,Van,50,2,1,55,2,4.6,Night,Tuesday,Minor
+Clear,Dry,Dark - lights off,Urban Road,None,Urban,High,Motorcycle,40,2,0,45,28,3.2,Morning,Thursday,Minor
+Snow,Dry,Daylight,Urban Road,None,Urban,High,Motorcycle,30,1,4,67,7,9.6,Afternoon,Monday,Serious
+Clear,Dry,Daylight,Residential,T-Junction,Urban,High,Car,30,4,3,30,7,7.5,Afternoon,Friday,Minor
+Clear,Wet,Daylight,Urban Road,Crossroads,Urban,Medium,Motorcycle,80,2,1,46,41,12.4,Evening,Thursday,Serious
+Clear,Dry,Dark - lights on,Highway,Roundabout,Urban,High,Car,50,1,3,35,22,3.0,Evening,Thursday,Serious
+Windy,Dry,Dark - lights on,Urban Road,T-Junction,Rural,Low,Car,80,2,1,70,14,2.6,Afternoon,Monday,Minor
+Clear,Dry,Daylight,Urban Road,None,Rural,Low,Motorcycle,30,4,6,34,2,8.1,Afternoon,Monday,Serious
+Windy,Dry,Daylight,Rural Road,Crossroads,Urban,High,Motorcycle,40,1,2,51,29,12.4,Afternoon,Friday,Minor
+Windy,Dry,Daylight,Urban Road,None,Rural,Low,Van,60,5,0,52,11,2.0,Morning,Wednesday,Minor
+Snow,Dry,Daylight,Highway,None,Urban,Low,Car,80,5,6,57,6,4.8,Afternoon,Thursday,Fatal
+Rain,Dry,Daylight,Rural Road,Roundabout,Urban,Medium,Motorcycle,80,3,3,19,42,9.7,Afternoon,Friday,Serious
+Clear,Wet,Daylight,Highway,None,Urban,High,Van,30,5,0,40,6,8.9,Evening,Thursday,Minor
+Windy,Dry,Dark - lights off,Residential,None,Rural,Medium,Car,30,3,5,56,22,14.7,Afternoon,Friday,Serious
+Clear,Dry,Daylight,Highway,Roundabout,Urban,Medium,Truck,40,4,2,43,31,8.2,Night,Saturday,Minor
+Clear,Wet,Daylight,Rural Road,None,Urban,Low,Car,60,3,0,26,36,1.6,Night,Monday,Minor
+Windy,Wet,Daylight,Rural Road,None,Urban,Low,Car,40,2,5,59,21,12.9,Morning,Monday,Minor
+Fog,Dry,Dawn/Dusk,Rural Road,None,Rural,Medium,Car,40,4,4,43,24,7.5,Morning,Monday,Serious
+Clear,Dry,Daylight,Highway,Roundabout,Rural,Medium,Bus,60,2,1,44,39,11.9,Afternoon,Wednesday,Minor
+Rain,Dry,Daylight,Urban Road,T-Junction,Urban,High,Van,80,2,3,42,37,0.7,Morning,Friday,Serious
+Fog,Dry,Daylight,Urban Road,None,Urban,Low,Car,40,4,3,35,18,13.9,Afternoon,Wednesday,Serious
+Rain,Dry,Dark - lights on,Rural Road,None,Rural,Medium,Car,40,1,1,20,20,11.9,Morning,Sunday,Minor
+Clear,Wet,Daylight,Rural Road,None,Urban,Medium,Car,50,2,2,55,2,14.6,Night,Sunday,Minor
+Windy,Dry,Daylight,Urban Road,Crossroads,Rural,Medium,Motorcycle,60,4,3,31,5,0.7,Morning,Tuesday,Serious
+Clear,Wet,Dark - lights on,Highway,T-Junction,Urban,Low,Bus,120,4,5,36,42,0.8,Evening,Tuesday,Fatal
+Clear,Wet,Daylight,Urban Road,Roundabout,Rural,High,Van,100,1,4,29,32,13.2,Afternoon,Wednesday,Serious
+Clear,Wet,Dark - lights on,Residential,Roundabout,Urban,Low,Car,70,1,5,28,18,4.6,Evening,Thursday,Minor
+Clear,Flooded,Daylight,Rural Road,None,Urban,Medium,Car,40,2,5,36,19,4.2,Afternoon,Tuesday,Serious
+Clear,Wet,Daylight,Urban Road,Roundabout,Rural,Medium,Truck,80,5,4,41,36,2.1,Morning,Monday,Serious
+Rain,Dry,Dawn/Dusk,Rural Road,None,Urban,Medium,Car,40,4,6,69,42,14.4,Evening,Thursday,Serious
+Clear,Dry,Daylight,Urban Road,None,Urban,Medium,Van,40,4,1,28,27,11.1,Evening,Saturday,Minor
+Clear,Icy,Dark - lights on,Urban Road,T-Junction,Urban,Medium,Car,70,2,4,36,2,7.5,Evening,Tuesday,Serious
+Windy,Dry,Daylight,Residential,None,Rural,Medium,Car,40,5,6,66,37,13.0,Morning,Saturday,Serious
+Clear,Wet,Daylight,Rural Road,Crossroads,Rural,High,Car,40,2,0,41,44,2.1,Morning,Monday,Minor
+Fog,Dry,Daylight,Urban Road,None,Urban,Low,Truck,70,3,2,49,16,12.7,Evening,Saturday,Minor
+Snow,Dry,Dawn/Dusk,Rural Road,T-Junction,Urban,High,Bus,40,5,4,63,45,8.8,Evening,Wednesday,Serious
+Clear,Dry,Dark - lights on,Highway,None,Urban,Low,Car,80,3,1,53,15,1.7,Night,Friday,Serious
+Rain,Dry,Dark - lights on,Residential,Crossroads,Urban,Medium,Truck,80,2,1,43,6,2.5,Evening,Thursday,Serious
+Fog,Dry,Daylight,Rural Road,None,Urban,High,Motorcycle,120,4,6,32,6,12.9,Afternoon,Monday,Fatal
+Clear,Icy,Daylight,Highway,None,Urban,High,Motorcycle,60,1,2,50,19,8.0,Evening,Thursday,Serious
+Clear,Wet,Daylight,Residential,T-Junction,Urban,Medium,Motorcycle,60,1,5,32,20,14.8,Evening,Friday,Serious
+Clear,Dry,Dark - lights on,Residential,None,Urban,Medium,Van,30,2,6,38,7,6.0,Afternoon,Thursday,Serious
+Clear,Wet,Daylight,Residential,None,Urban,Medium,Truck,120,1,5,56,15,11.0,Evening,Wednesday,Serious
+Fog,Wet,Daylight,Highway,Roundabout,Urban,High,Bus,70,2,1,61,2,4.2,Night,Wednesday,Serious
+Clear,Dry,Dark - lights on,Urban Road,None,Urban,Medium,Car,40,3,5,22,44,9.0,Night,Tuesday,Serious
+Clear,Icy,Dark - lights off,Urban Road,Roundabout,Urban,Medium,Van,100,3,1,31,35,10.6,Night,Sunday,Serious
+Clear,Dry,Daylight,Urban Road,T-Junction,Rural,Medium,Motorcycle,40,2,6,69,24,1.3,Afternoon,Sunday,Serious
+Clear,Dry,Dark - lights off,Rural Road,None,Urban,Low,Car,50,2,3,42,0,9.1,Morning,Thursday,Serious
+Windy,Dry,Daylight,Highway,Crossroads,Rural,Low,Car,120,5,4,26,19,5.4,Morning,Sunday,Serious
+Windy,Dry,Daylight,Urban Road,Roundabout,Rural,Medium,Truck,50,3,1,65,6,10.6,Evening,Tuesday,Minor
+Rain,Dry,Daylight,Rural Road,None,Urban,Medium,Car,60,5,3,44,10,1.3,Afternoon,Sunday,Serious
+Rain,Dry,Daylight,Urban Road,None,Urban,High,Car,40,5,2,42,15,12.1,Night,Thursday,Minor
+Snow,Icy,Daylight,Rural Road,Roundabout,Rural,Medium,Car,30,2,4,48,3,5.3,Morning,Tuesday,Serious
+Fog,Icy,Daylight,Rural Road,T-Junction,Urban,Medium,Motorcycle,120,5,5,54,10,4.2,Evening,Monday,Fatal
+Windy,Flooded,Daylight,Urban Road,T-Junction,Urban,High,Motorcycle,100,3,5,29,20,6.9,Night,Wednesday,Fatal
+Fog,Dry,Daylight,Urban Road,None,Rural,Medium,Car,60,5,5,37,12,4.9,Night,Wednesday,Serious
+Rain,Wet,Dawn/Dusk,Rural Road,Roundabout,Urban,High,Motorcycle,40,1,0,43,6,7.2,Evening,Saturday,Serious
+Clear,Dry,Dawn/Dusk,Urban Road,None,Urban,Low,Car,70,3,1,35,5,7.5,Afternoon,Tuesday,Minor
+Clear,Dry,Daylight,Urban Road,Crossroads,Urban,Low,Car,40,5,1,26,25,9.2,Morning,Friday,Minor
+Clear,Wet,Daylight,Urban Road,None,Urban,High,Bus,40,5,6,46,23,8.5,Night,Tuesday,Serious
+Clear,Icy,Daylight,Urban Road,None,Urban,Medium,Motorcycle,80,3,1,39,11,13.0,Evening,Tuesday,Serious
+Snow,Wet,Dark - lights on,Urban Road,Roundabout,Urban,Low,Van,70,3,2,57,41,5.8,Afternoon,Tuesday,Minor
+Clear,Dry,Daylight,Urban Road,None,Rural,High,Car,120,4,6,45,29,1.7,Morning,Monday,Fatal
+Clear,Dry,Daylight,Urban Road,None,Urban,High,Truck,40,5,4,38,22,5.1,Morning,Wednesday,Serious
+Rain,Wet,Daylight,Residential,Crossroads,Urban,Medium,Car,30,2,1,37,27,5.5,Afternoon,Thursday,Minor
+Windy,Dry,Dark - lights on,Urban Road,T-Junction,Urban,Medium,Car,40,2,0,52,34,7.3,Afternoon,Wednesday,Minor
+Rain,Wet,Dark - lights on,Urban Road,None,Urban,Medium,Motorcycle,50,5,3,38,29,9.2,Evening,Wednesday,Serious
+Clear,Dry,Daylight,Urban Road,Roundabout,Urban,Medium,Motorcycle,120,5,5,51,19,14.5,Afternoon,Saturday,Fatal
+Fog,Wet,Daylight,Residential,Crossroads,Rural,Medium,Truck,80,2,5,23,13,2.1,Morning,Monday,Fatal
+Clear,Dry,Dawn/Dusk,Urban Road,None,Urban,Medium,Motorcycle,40,4,2,54,44,8.7,Morning,Wednesday,Minor
+Clear,Dry,Daylight,Highway,Roundabout,Urban,Medium,Bus,40,5,4,51,42,12.4,Afternoon,Tuesday,Serious
+Clear,Dry,Dark - lights on,Residential,None,Rural,High,Car,80,4,2,39,6,9.1,Night,Tuesday,Serious
+Rain,Wet,Daylight,Highway,Roundabout,Urban,Low,Car,40,1,1,64,12,5.3,Evening,Saturday,Minor
+Clear,Dry,Daylight,Residential,None,Urban,Medium,Car,30,4,6,55,39,11.6,Afternoon,Sunday,Serious
+Clear,Dry,Daylight,Residential,None,Rural,Low,Motorcycle,30,1,5,52,26,5.9,Afternoon,Friday,Serious
+Clear,Dry,Daylight,Urban Road,Roundabout,Rural,Medium,Motorcycle,30,5,6,38,0,9.2,Morning,Sunday,Serious
+Windy,Dry,Dark - lights on,Urban Road,T-Junction,Urban,Medium,Car,60,1,1,36,27,8.2,Evening,Monday,Minor
+Fog,Dry,Dark - lights on,Rural Road,None,Urban,Medium,Van,50,4,5,30,32,13.2,Evening,Sunday,Serious
+Rain,Dry,Daylight,Rural Road,None,Rural,Medium,Truck,40,1,4,34,29,6.2,Evening,Saturday,Serious
+Rain,Wet,Daylight,Rural Road,Crossroads,Urban,High,Car,60,2,4,42,13,5.8,Evening,Sunday,Serious
+Fog,Wet,Daylight,Urban Road,Crossroads,Urban,Medium,Motorcycle,70,2,0,59,29,10.4,Night,Monday,Minor
+Fog,Dry,Daylight,Rural Road,None,Urban,Medium,Car,50,2,1,30,31,7.7,Afternoon,Sunday,Minor
+Rain,Dry,Dawn/Dusk,Rural Road,None,Urban,High,Car,30,4,1,22,18,6.4,Evening,Sunday,Serious
+Rain,Dry,Dawn/Dusk,Highway,None,Urban,Medium,Car,100,4,6,20,27,12.6,Evening,Wednesday,Fatal
+Clear,Wet,Dark - lights on,Rural Road,T-Junction,Urban,High,Bus,30,5,3,37,30,14.1,Morning,Tuesday,Minor
+Clear,Icy,Daylight,Highway,Roundabout,Urban,High,Car,30,3,6,60,25,1.3,Afternoon,Sunday,Fatal
+Rain,Dry,Daylight,Urban Road,Crossroads,Urban,Medium,Bus,30,5,2,61,21,11.2,Afternoon,Friday,Minor
+Rain,Dry,Daylight,Highway,Crossroads,Rural,Low,Car,50,1,3,28,5,5.5,Night,Friday,Serious
+Rain,Dry,Daylight,Urban Road,Roundabout,Urban,Medium,Van,70,4,4,33,17,2.2,Afternoon,Thursday,Serious
+Rain,Dry,Daylight,Residential,T-Junction,Rural,High,Car,120,5,0,24,14,8.5,Evening,Monday,Serious
+Clear,Dry,Daylight,Rural Road,Crossroads,Urban,Low,Car,40,4,6,69,9,7.9,Afternoon,Monday,Serious
+Fog,Dry,Daylight,Rural Road,Roundabout,Urban,Medium,Car,120,5,4,32,33,0.8,Evening,Sunday,Serious
+Windy,Dry,Dawn/Dusk,Residential,None,Urban,Medium,Bus,40,1,4,37,9,11.4,Afternoon,Saturday,Minor
+Fog,Wet,Daylight,Urban Road,None,Urban,Low,Car,40,3,2,45,5,5.1,Evening,Saturday,Minor
+Snow,Wet,Daylight,Highway,T-Junction,Urban,High,Car,60,1,4,45,30,11.1,Morning,Tuesday,Serious
+Clear,Dry,Daylight,Urban Road,T-Junction,Urban,High,Motorcycle,70,3,1,53,37,11.5,Night,Monday,Minor
+Windy,Wet,Daylight,Residential,None,Rural,Medium,Car,100,3,0,25,2,9.2,Afternoon,Friday,Minor
+Clear,Wet,Daylight,Rural Road,Roundabout,Urban,Medium,Car,80,3,6,47,32,13.8,Afternoon,Saturday,Serious
+Clear,Dry,Daylight,Rural Road,T-Junction,Rural,Medium,Van,30,1,0,54,11,13.2,Afternoon,Friday,Minor
+Clear,Dry,Dark - lights on,Urban Road,Crossroads,Rural,High,Car,60,3,6,65,8,10.7,Evening,Friday,Serious
+Snow,Dry,Dawn/Dusk,Rural Road,Roundabout,Urban,Medium,Bus,80,1,4,36,9,8.6,Afternoon,Monday,Serious
+Windy,Wet,Daylight,Urban Road,T-Junction,Urban,Medium,Car,120,4,0,25,35,7.2,Evening,Sunday,Minor
+Clear,Icy,Dark - lights on,Urban Road,None,Rural,Medium,Van,30,1,2,53,40,1.6,Evening,Saturday,Minor
+Clear,Dry,Daylight,Rural Road,Crossroads,Rural,High,Car,80,4,3,54,1,4.0,Evening,Friday,Fatal
+Clear,Dry,Daylight,Urban Road,None,Rural,High,Motorcycle,50,3,1,29,43,4.7,Morning,Sunday,Minor
+Windy,Dry,Dark - lights on,Urban Road,T-Junction,Rural,Low,Van,40,5,1,56,10,7.1,Evening,Tuesday,Minor
+Clear,Dry,Daylight,Residential,Crossroads,Rural,Medium,Car,80,2,3,52,27,14.6,Night,Thursday,Serious
+Clear,Dry,Daylight,Rural Road,T-Junction,Urban,Medium,Bus,70,3,3,50,13,13.0,Morning,Thursday,Minor
+Rain,Dry,Daylight,Residential,None,Urban,High,Car,70,3,3,24,11,12.6,Morning,Thursday,Minor
+Clear,Dry,Daylight,Urban Road,T-Junction,Urban,Low,Car,50,2,2,42,10,4.3,Evening,Thursday,Minor
+Windy,Dry,Dark - lights on,Urban Road,T-Junction,Rural,Medium,Motorcycle,50,2,5,34,36,7.9,Evening,Tuesday,Serious
+Clear,Wet,Daylight,Urban Road,Roundabout,Urban,Medium,Car,60,4,5,63,39,11.4,Afternoon,Thursday,Serious
+Rain,Dry,Daylight,Rural Road,Crossroads,Urban,Medium,Van,80,2,1,45,32,6.6,Evening,Wednesday,Minor
+Clear,Dry,Dark - lights on,Rural Road,Crossroads,Urban,Medium,Car,30,4,6,26,1,7.5,Afternoon,Wednesday,Serious
+Clear,Dry,Daylight,Urban Road,T-Junction,Urban,Medium,Car,100,4,6,19,38,2.8,Morning,Sunday,Fatal
+Windy,Dry,Daylight,Rural Road,None,Urban,Medium,Car,40,2,6,40,42,13.0,Night,Wednesday,Serious
+Clear,Wet,Dark - lights on,Urban Road,Crossroads,Urban,High,Bus,60,4,3,29,45,9.0,Afternoon,Saturday,Serious
+Rain,Wet,Daylight,Urban Road,Crossroads,Urban,Medium,Car,120,5,0,22,30,8.3,Evening,Monday,Serious
+Fog,Flooded,Dark - lights on,Rural Road,None,Urban,High,Car,30,3,3,58,41,7.5,Night,Monday,Serious
+Clear,Icy,Daylight,Highway,T-Junction,Rural,Medium,Motorcycle,80,4,0,41,14,7.5,Night,Tuesday,Fatal
+Rain,Wet,Dark - lights off,Rural Road,None,Urban,Low,Van,40,4,4,53,33,13.0,Night,Tuesday,Serious
+Clear,Wet,Daylight,Rural Road,Roundabout,Urban,High,Car,70,1,1,70,42,5.0,Evening,Friday,Minor
+Clear,Dry,Daylight,Urban Road,Roundabout,Urban,High,Car,30,5,4,56,10,9.2,Afternoon,Thursday,Serious
+Fog,Wet,Daylight,Highway,None,Urban,Medium,Motorcycle,100,1,5,58,33,12.8,Morning,Sunday,Fatal
+Clear,Dry,Dawn/Dusk,Urban Road,None,Urban,Medium,Car,40,4,1,66,38,7.9,Night,Wednesday,Minor
+Clear,Flooded,Dark - lights on,Rural Road,Roundabout,Urban,Medium,Van,80,5,0,19,7,3.1,Night,Wednesday,Serious
+Clear,Wet,Daylight,Urban Road,T-Junction,Rural,Medium,Bus,80,2,5,31,9,6.4,Afternoon,Saturday,Serious
+Clear,Wet,Daylight,Highway,None,Urban,Medium,Car,80,4,5,63,24,11.3,Afternoon,Wednesday,Fatal
+Clear,Dry,Daylight,Urban Road,Roundabout,Rural,Medium,Car,50,2,4,46,42,4.0,Afternoon,Saturday,Minor
+Clear,Dry,Dark - lights on,Urban Road,None,Urban,High,Bus,100,2,0,39,40,7.1,Night,Tuesday,Serious
+Rain,Dry,Daylight,Urban Road,T-Junction,Urban,Medium,Car,120,1,5,27,6,0.6,Afternoon,Tuesday,Fatal
+Rain,Dry,Daylight,Highway,None,Urban,Medium,Van,30,4,6,31,6,5.8,Afternoon,Thursday,Serious
+Rain,Wet,Daylight,Urban Road,Crossroads,Urban,Medium,Car,40,2,1,40,15,7.4,Night,Friday,Minor
+Windy,Dry,Dawn/Dusk,Rural Road,T-Junction,Urban,Low,Car,100,1,3,38,12,3.1,Morning,Sunday,Serious
+Clear,Wet,Daylight,Residential,Roundabout,Urban,High,Motorcycle,60,1,0,21,44,3.8,Afternoon,Wednesday,Serious
+Fog,Wet,Dark - lights on,Rural Road,None,Urban,High,Car,100,2,4,64,37,11.1,Morning,Saturday,Serious
+Clear,Dry,Daylight,Urban Road,None,Urban,Medium,Car,60,5,2,31,5,14.7,Evening,Saturday,Minor
+Fog,Dry,Daylight,Highway,Crossroads,Urban,Medium,Motorcycle,70,1,6,66,4,5.7,Evening,Monday,Serious
+Windy,Dry,Dark - lights on,Highway,T-Junction,Urban,Low,Van,30,3,4,60,22,9.4,Night,Wednesday,Minor
+Rain,Wet,Daylight,Highway,Crossroads,Urban,High,Car,30,5,6,52,32,1.2,Morning,Thursday,Fatal
+Fog,Dry,Daylight,Rural Road,None,Urban,Low,Van,40,4,1,69,1,4.5,Evening,Sunday,Serious
+Clear,Dry,Daylight,Rural Road,Crossroads,Rural,Medium,Truck,60,5,6,53,10,13.1,Afternoon,Saturday,Serious
+Rain,Icy,Daylight,Residential,None,Urban,Medium,Car,120,1,1,38,13,1.1,Afternoon,Tuesday,Serious
+Clear,Wet,Dawn/Dusk,Residential,Roundabout,Rural,Low,Car,60,4,0,28,38,6.1,Evening,Wednesday,Minor
+Windy,Wet,Dawn/Dusk,Highway,None,Urban,Medium,Car,70,5,1,59,23,5.7,Night,Wednesday,Serious
+Clear,Dry,Daylight,Urban Road,T-Junction,Urban,High,Car,60,5,4,38,43,12.2,Afternoon,Saturday,Serious
+Fog,Dry,Daylight,Highway,Crossroads,Urban,Low,Car,120,5,4,41,36,13.4,Morning,Saturday,Serious
+Windy,Dry,Dark - lights off,Urban Road,Roundabout,Rural,Medium,Bus,70,1,1,23,4,13.4,Morning,Friday,Minor
+Clear,Dry,Dark - lights on,Rural Road,None,Rural,Low,Car,80,3,4,58,25,8.3,Afternoon,Sunday,Serious
+Clear,Icy,Daylight,Urban Road,T-Junction,Rural,Medium,Car,120,5,1,33,23,13.9,Night,Tuesday,Serious
+Rain,Wet,Daylight,Residential,None,Urban,Medium,Car,100,2,3,51,0,4.3,Morning,Saturday,Serious
+Clear,Dry,Daylight,Residential,Crossroads,Urban,Medium,Motorcycle,60,2,3,19,27,2.6,Morning,Wednesday,Serious
+Clear,Wet,Dark - lights on,Highway,Crossroads,Urban,Medium,Motorcycle,50,2,2,65,8,12.1,Afternoon,Wednesday,Minor
+Rain,Wet,Dark - lights off,Rural Road,Crossroads,Rural,Low,Car,100,4,3,36,22,6.1,Morning,Friday,Serious
+Clear,Dry,Dark - lights on,Urban Road,Crossroads,Urban,Low,Motorcycle,100,2,0,33,33,2.7,Night,Sunday,Serious
+Clear,Dry,Daylight,Highway,T-Junction,Rural,Medium,Car,30,4,1,24,33,11.5,Evening,Monday,Minor
+Clear,Dry,Daylight,Urban Road,None,Rural,Medium,Motorcycle,120,2,1,21,40,7.2,Evening,Sunday,Serious
+Rain,Dry,Daylight,Urban Road,T-Junction,Urban,Medium,Car,70,4,0,62,45,12.3,Morning,Saturday,Minor
+Clear,Dry,Daylight,Urban Road,None,Urban,Medium,Car,50,4,2,35,41,7.4,Evening,Wednesday,Minor
+Windy,Dry,Daylight,Residential,Crossroads,Urban,High,Car,50,4,1,48,45,8.5,Morning,Thursday,Minor
+Rain,Icy,Dark - lights on,Rural Road,Crossroads,Rural,Low,Motorcycle,40,3,2,35,27,9.3,Evening,Friday,Serious
+Clear,Dry,Dark - lights on,Rural Road,Crossroads,Urban,High,Motorcycle,60,4,0,44,16,1.6,Night,Tuesday,Minor
+Clear,Wet,Daylight,Urban Road,None,Urban,Low,Motorcycle,50,4,3,57,21,6.0,Morning,Sunday,Serious
+Rain,Flooded,Daylight,Urban Road,None,Urban,Low,Motorcycle,100,4,2,45,1,3.4,Afternoon,Friday,Fatal
+Clear,Dry,Dawn/Dusk,Urban Road,Crossroads,Urban,Low,Car,40,3,5,40,7,13.7,Morning,Wednesday,Serious
+Clear,Flooded,Daylight,Highway,None,Urban,Medium,Truck,70,5,1,36,23,2.6,Afternoon,Friday,Serious
+Clear,Icy,Dark - lights on,Urban Road,None,Rural,Low,Bus,50,2,4,38,2,4.7,Night,Thursday,Serious
+Clear,Dry,Daylight,Highway,None,Urban,High,Car,120,5,2,67,18,3.1,Morning,Saturday,Serious
+Rain,Dry,Daylight,Urban Road,T-Junction,Urban,Medium,Motorcycle,120,1,5,52,24,2.0,Night,Saturday,Fatal
+Windy,Dry,Daylight,Highway,Roundabout,Urban,High,Truck,120,4,6,61,24,13.9,Afternoon,Thursday,Fatal
+Clear,Dry,Daylight,Rural Road,Crossroads,Rural,Medium,Car,70,1,3,41,23,4.0,Evening,Friday,Minor
+Clear,Flooded,Dark - lights off,Highway,None,Urban,High,Car,70,4,5,22,0,6.7,Afternoon,Monday,Fatal
+Fog,Wet,Dark - lights on,Rural Road,Roundabout,Urban,High,Truck,70,2,6,25,28,7.0,Evening,Saturday,Fatal
+Windy,Dry,Daylight,Rural Road,None,Rural,Medium,Car,30,3,2,32,36,8.1,Afternoon,Tuesday,Minor
+Rain,Wet,Daylight,Urban Road,None,Urban,High,Car,50,2,0,20,17,13.4,Afternoon,Friday,Minor
+Snow,Wet,Daylight,Rural Road,None,Rural,High,Car,100,5,5,26,20,3.0,Evening,Sunday,Fatal
+Clear,Wet,Daylight,Rural Road,Crossroads,Rural,High,Motorcycle,120,5,0,32,28,0.6,Morning,Saturday,Serious
+Windy,Dry,Dark - lights on,Rural Road,Roundabout,Urban,Low,Car,30,5,1,29,39,5.4,Morning,Thursday,Minor
+Windy,Wet,Daylight,Highway,None,Rural,High,Bus,60,5,6,41,21,7.5,Afternoon,Wednesday,Fatal
+Windy,Wet,Daylight,Urban Road,None,Urban,Low,Car,50,2,6,45,16,14.9,Afternoon,Saturday,Minor
+Clear,Flooded,Daylight,Residential,None,Rural,High,Car,30,5,4,32,27,11.4,Evening,Thursday,Serious
+Windy,Wet,Dark - lights on,Rural Road,Crossroads,Urban,Medium,Car,80,2,0,60,38,7.8,Morning,Monday,Minor
+Rain,Dry,Daylight,Urban Road,None,Rural,Medium,Car,50,4,4,45,40,8.0,Night,Tuesday,Serious
+Clear,Dry,Daylight,Residential,None,Urban,Medium,Car,60,2,4,35,22,0.8,Morning,Tuesday,Serious
+Rain,Dry,Daylight,Rural Road,T-Junction,Rural,Low,Bus,30,1,3,37,15,11.2,Evening,Tuesday,Minor
+Windy,Wet,Daylight,Urban Road,None,Urban,Low,Bus,50,4,6,47,11,10.2,Afternoon,Thursday,Serious
+Clear,Dry,Dark - lights on,Highway,None,Urban,High,Car,30,2,0,23,1,3.5,Afternoon,Thursday,Minor
+Rain,Dry,Daylight,Highway,None,Urban,Medium,Car,60,1,2,62,45,12.1,Night,Sunday,Minor
+Clear,Dry,Daylight,Rural Road,None,Urban,Medium,Car,80,3,4,45,5,6.8,Afternoon,Saturday,Serious
+Windy,Dry,Daylight,Residential,None,Urban,High,Car,50,4,3,43,43,14.6,Evening,Saturday,Serious
+Clear,Wet,Dark - lights on,Highway,None,Rural,Medium,Car,40,3,1,39,36,10.9,Afternoon,Tuesday,Minor
+Windy,Dry,Daylight,Residential,None,Urban,Medium,Car,40,3,4,50,35,13.5,Afternoon,Thursday,Minor
+Rain,Icy,Daylight,Highway,None,Urban,Low,Truck,120,3,3,41,28,11.2,Morning,Friday,Fatal
+Clear,Icy,Dark - lights off,Urban Road,Roundabout,Urban,Medium,Car,100,2,3,57,11,5.2,Afternoon,Tuesday,Serious
+Rain,Flooded,Daylight,Residential,Crossroads,Rural,Medium,Car,120,1,0,35,36,5.2,Night,Thursday,Serious
+Clear,Flooded,Daylight,Highway,Crossroads,Rural,Medium,Car,120,5,0,70,5,1.9,Evening,Friday,Fatal
+Clear,Dry,Daylight,Urban Road,None,Urban,Medium,Truck,30,5,0,24,1,2.9,Evening,Sunday,Serious
+Clear,Icy,Daylight,Rural Road,T-Junction,Rural,High,Car,30,3,2,56,41,3.4,Afternoon,Friday,Minor
+Windy,Dry,Daylight,Urban Road,Crossroads,Rural,Medium,Van,40,1,0,54,13,10.0,Afternoon,Tuesday,Minor
+Rain,Wet,Daylight,Urban Road,None,Urban,Medium,Car,80,3,6,59,23,7.3,Afternoon,Wednesday,Serious
+Clear,Wet,Daylight,Rural Road,Crossroads,Urban,Medium,Car,70,4,5,66,34,2.7,Morning,Sunday,Serious
+Clear,Flooded,Dark - lights on,Residential,T-Junction,Rural,Medium,Car,60,3,3,41,26,4.9,Morning,Tuesday,Serious
+Rain,Wet,Daylight,Highway,None,Urban,Medium,Car,120,1,5,24,40,2.6,Morning,Thursday,Fatal
+Snow,Dry,Dark - lights on,Highway,None,Urban,Medium,Bus,100,5,4,35,7,4.6,Evening,Saturday,Serious
+Clear,Dry,Daylight,Highway,None,Urban,Low,Motorcycle,50,3,1,69,7,5.7,Evening,Tuesday,Minor
+Windy,Dry,Daylight,Residential,None,Urban,High,Motorcycle,80,3,1,64,9,5.9,Evening,Monday,Serious
+Clear,Wet,Daylight,Urban Road,None,Urban,High,Truck,50,3,5,24,18,0.6,Night,Tuesday,Serious
+Clear,Dry,Dark - lights off,Highway,T-Junction,Urban,Low,Car,30,2,2,68,26,6.2,Afternoon,Friday,Minor
+Fog,Wet,Dark - lights on,Highway,None,Rural,Low,Car,30,4,3,33,16,13.7,Afternoon,Tuesday,Serious
+Windy,Dry,Daylight,Highway,T-Junction,Rural,Low,Motorcycle,120,2,6,63,45,5.1,Evening,Wednesday,Fatal
+Fog,Dry,Daylight,Residential,None,Rural,High,Van,60,3,0,68,38,0.7,Evening,Friday,Minor
+Rain,Dry,Daylight,Residential,None,Urban,Low,Car,100,2,1,60,19,1.1,Evening,Wednesday,Serious
+Rain,Wet,Daylight,Urban Road,T-Junction,Urban,Medium,Car,60,2,5,57,10,2.4,Evening,Sunday,Serious
+Clear,Wet,Daylight,Urban Road,None,Urban,Medium,Car,40,4,0,52,38,13.5,Night,Monday,Minor
+Fog,Dry,Daylight,Urban Road,None,Urban,Medium,Motorcycle,40,2,2,18,17,5.2,Evening,Thursday,Serious
+Clear,Dry,Daylight,Urban Road,T-Junction,Rural,Low,Car,120,4,4,52,8,12.4,Afternoon,Friday,Serious
+Clear,Dry,Dark - lights on,Rural Road,None,Urban,Medium,Motorcycle,120,1,0,29,35,12.2,Morning,Friday,Minor
+Clear,Wet,Dark - lights on,Highway,T-Junction,Urban,Medium,Car,50,4,2,60,18,12.0,Afternoon,Tuesday,Minor
+Rain,Dry,Daylight,Highway,Roundabout,Urban,Medium,Motorcycle,60,3,4,59,45,1.4,Afternoon,Monday,Serious
+Clear,Dry,Daylight,Urban Road,None,Rural,High,Car,30,3,5,49,24,11.6,Afternoon,Thursday,Serious
+Clear,Dry,Daylight,Highway,T-Junction,Urban,High,Car,100,1,3,65,23,5.5,Evening,Thursday,Serious
+Rain,Wet,Daylight,Urban Road,None,Urban,Medium,Car,120,4,6,35,8,10.1,Night,Tuesday,Fatal
+Clear,Dry,Daylight,Urban Road,Crossroads,Urban,Low,Car,60,1,5,49,21,7.3,Morning,Friday,Serious
+Windy,Dry,Daylight,Highway,None,Urban,High,Van,100,3,4,68,32,15.0,Morning,Monday,Serious
+Rain,Dry,Dawn/Dusk,Highway,None,Urban,Medium,Car,60,2,1,26,43,10.9,Night,Wednesday,Minor
+Clear,Wet,Dark - lights on,Highway,Roundabout,Urban,Low,Van,50,4,1,20,32,6.8,Evening,Friday,Serious
+Clear,Dry,Dark - lights on,Residential,Roundabout,Rural,Medium,Car,40,3,3,26,3,8.5,Evening,Sunday,Minor
+Fog,Dry,Daylight,Rural Road,Crossroads,Urban,Medium,Van,40,3,3,28,37,13.3,Afternoon,Friday,Serious
+Rain,Wet,Daylight,Urban Road,Roundabout,Urban,High,Van,30,3,5,35,5,3.6,Afternoon,Wednesday,Serious
+Clear,Dry,Daylight,Rural Road,Crossroads,Rural,Medium,Truck,100,4,1,39,13,5.0,Morning,Thursday,Serious
